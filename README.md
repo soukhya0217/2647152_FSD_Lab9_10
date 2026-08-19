@@ -1,3 +1,13 @@
+# Dairy Management System
+A modern, responsive dairy management dashboard built with Next.js and Tailwind CSS.
+Demonstrates Server-Side Rendering (SSR), Client-Side Rendering (CSR), and API-based data fetching.
+Includes farmer management, milk collection, validation, filtering, and a premium mobile-first UI.
+
+
+
+
+
+
 # DairyFlow - Modern Dairy Management System
 
 A complete, modern Dairy Management System built with Next.js, React, and Tailwind CSS.
